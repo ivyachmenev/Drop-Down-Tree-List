@@ -2,7 +2,7 @@
  ===================
  Release 2.0
 
- Home page: http://www.apex-plugin.com/oracle-apex-plugins/item-plugin/drop-down-tree-list_381.html
+ Home page: https://github.com/ivyachmenev/
 
  This Plugin is free and licensed under the MIT license ( http://www.opensource.org/licenses/mit-license.php )
 

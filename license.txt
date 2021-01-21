@@ -1,6 +1,6 @@
 The MIT License (MIT)
 
-Copyright (c) 2015 Igor Yachmenev ( http://www.apex-plugin.com/oracle-apex-plugins/item-plugin/drop-down-tree-list_381.html )
+Copyright (c) 2015 Igor Yachmenev ( https://github.com/ivyachmenev/Drop-Down-Tree-List/ )
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
