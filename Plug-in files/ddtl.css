@@ -1,0 +1,22 @@
+.ddtl_image_default { display: inline-block; height:16px; width:16px; background:url('#PLUGIN_PREFIX#default_icons.png') no-repeat; display:inline-block; float:left }
+.ddtl_image_classic { display: inline-block; height:16px; width:16px; background:url('#PLUGIN_PREFIX#classic_icons.png') no-repeat; display:inline-block; float:left }
+.ddtl_image_apple { display: inline-block; height:16px; width:16px; background:url('#PLUGIN_PREFIX#apple_icons.png') no-repeat; display:inline-block; float:left }
+.ddtl_image_a-Icon { display: inline-block; height:16px; width:16px; display:inline-block; float:left }
+
+.ddtl_static_default .open { background: url('#PLUGIN_PREFIX#default_icons.png') no-repeat -64px -16px  ! important; }
+.ddtl_static_classic .open { background: url('#PLUGIN_PREFIX#classic_icons.png') no-repeat -64px -16px  ! important; }
+.ddtl_static_apple .open { background: url('#PLUGIN_PREFIX#apple_icons.png') no-repeat -64px -16px  ! important; }
+
+.ddtl_display_block {}
+.ddtl_clickable { cursor: pointer }
+.ddtl_readonly { cursor: default }
+
+.ddtl_text  { margin-left:1px; display:inline; font-weight:normal }
+.ddtl_clickable .ddtl_text:hover { text-decoration:underline }
+
+/* Bug Fix for 5.0.1.00.06 - missing tree folder icon */
+/* line 866, ../scss/core/IconFont.scss */
+.a-Icon.icon-tree-folder:before,
+.a-TreeView-node.is-expandable > .a-TreeView-content > .a-Icon.icon-tree-folder:before {
+  content: "\e0da";
+}
