@@ -18,6 +18,8 @@ function BuildTreeLinks( pTreeId
 		var lTreeArr = apex.jQuery("#" + pTreeStaticId + " li");
 		var lObj = window[ "g" + pTreeId.substr(0,1).toUpperCase() + pTreeId.substr(1) + "Data" ];
 		
+		if ( lObj.data ) lObj = lObj.data;
+		
 		TreeObjLoop( lObj, function(pObj,pIndex){
 			
 			var lNodeId = pObj.id;
