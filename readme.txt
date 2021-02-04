@@ -2,7 +2,7 @@
  ===================
  Release 2.0
 
- Home page: https://github.com/ivyachmenev/
+ Home page: https://github.com/ivyachmenev/Drop-Down-Tree-List
  Demo: https://apex.oracle.com/pls/apex/f?p=73108:2::::::
 
  This Plugin is free and licensed under the MIT license ( http://www.opensource.org/licenses/mit-license.php )
